@@ -10,7 +10,7 @@ Version 0.1.5 (test build)
 
 Install
 -
-unzip to game folder, only tested with virtual desktop XR Launch options: -force-d3d11
+unzip to game folder, only tested with virtual desktop XR Launch options: -force-d3d11 steam or in shortcut
 
 CONTROLS (the VR controllers are the game's GAMEPAD - its own pad controls and button prompts)
 -
